@@ -1,0 +1,41 @@
+table, th, td {
+    text-align: center;
+}
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.passion{
+	font-family: "Helvetica";		
+	color:#00b33c;
+}
+.elec{
+	font-family: "Impact";
+	background-color: white;
+}
+.science{
+	font-family: "Helvetica";		
+	color:#ff4d4d;
+}
+.social-icons {
+  text-align: left;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+
+.social-icons li a img {
+  border-bottom: none;
+  width:20px;
+  height:20px;
+  margin-left: 20px;
+
+  }
+.social-icons li img {
+  width:70px;
+  height:70px;
+}
